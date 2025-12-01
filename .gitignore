@@ -4,5 +4,6 @@ node_modules
 .env.test
 
 database/*.db
+database/*.sqlite
 
 build
